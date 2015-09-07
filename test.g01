@@ -1,0 +1,39 @@
+Geom Title=test
+Program Version=4.10
+Viewing Rectangle= 0 , 1 , 1 , 0 
+
+River Reach=Yuanchao        ,1               
+Reach XY= 3 
+ 0.45153061224490.834183673469390.441326530612250.30867346938776
+0.448979591836740.30612244897959
+Rch Text X Y=0.4508929,0.7021684
+Reverse River Text= 0 
+
+Type RM Length L Ch R = 1 ,2000    ,,,
+Node Last Edited Time=Nov/12/2014 20:17:29
+#Sta/Elev= 2 
+      11      11      22      22
+#Mann= 3 , 0 , 0 
+      11               0                       0                       0
+Bank Sta=,
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,630.5   ,,,
+Node Last Edited Time=Nov/12/2014 20:17:17
+#Sta/Elev= 2 
+      12      22      22      33
+#Mann= 3 , 0 , 0 
+      12               0                       0                       0
+Bank Sta=,
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Chan Stop Cuts=-1 
+
+
+
+Use User Specified Reach Order=0
+GIS Ratio Cuts To Invert=-1
+GIS Limit At Bridges=0
+Composite Channel Slope=5

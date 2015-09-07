@@ -1,0 +1,106 @@
+Geom Title=2
+Program Version=4.10
+Viewing Rectangle= 0 , 1 , 1 , 0 
+
+River Reach=exercise        ,e1              
+Reach XY= 2 
+0.413265306122450.780612244897960.418367346938780.17857142857143
+Rch Text X Y=0.4145408,0.630102
+Reverse River Text= 0 
+
+Type RM Length L Ch R = 1 ,8       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:05:46
+#Sta/Elev= 8 
+     110    90.3     120    80.3     200    78.3     210    70.3     235    71.3
+     240    79.3     350    81.3     360    91.3
+#Mann= 3 , 0 , 0 
+     110     .04       0     200     .04       0     240     .04       0
+Bank Sta=200,240
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,7       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:05:28
+#Sta/Elev= 8 
+     110    90.1     120    80.1     200    78.1     210    70.1     235    70.1
+     240    79.1     350    81.1     360    91.1
+#Mann= 3 , 0 , 0 
+     110     .04       0     200     .04       0     240     .04       0
+Bank Sta=200,240
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,6       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:05:15
+#Sta/Elev= 8 
+     110    90.1     120    80.1     200    78.1     210    70.1     235    70.1
+     240    79.1     350    81.1     360    91.1
+#Mann= 3 , 0 , 0 
+     110     .04       0     200     .04       0     240     .04       0
+Bank Sta=200,240
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,5       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:05:01
+#Sta/Elev= 8 
+     110    90.1     120    80.1     200    78.1     210    70.1     235    70.1
+     240    79.1     350    81.1     360    91.1
+#Mann= 3 , 0 , 0 
+     110     .04       0     200     .04       0     240     .04       0
+Bank Sta=200,240
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,4       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:04:50
+#Sta/Elev= 8 
+     110      90     120      80     200      78     210      70     235      70
+     240      79     350      81     360      91
+#Mann= 3 , 0 , 0 
+     110     .04       0     200     .04       0     240     .04       0
+Bank Sta=200,240
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,3       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:04:37
+#Sta/Elev= 8 
+     110    89.5     119    79.5     191    77.5     201    69.5     221    70.5
+     231    78.5     330    80.5     339    90.5
+#Mann= 3 , 0 , 0 
+     110     .04       0     191     .04       0     231     .04       0
+Bank Sta=191,231
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,2       ,500,500,500
+Node Last Edited Time=Nov/03/2014 14:04:07
+#Sta/Elev= 8 
+     110    89.1   117.2    79.1   174.8    77.1   184.8    69.1   204.8    70.1
+   214.8    78.1     294    80.1   301.2    90.1
+#Mann= 3 , 0 , 0 
+     110     .04       0   174.8     .04       0   214.8     .04       0
+Bank Sta=174.8,214.8
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Type RM Length L Ch R = 1 ,1       ,0,0,0
+Node Last Edited Time=Nov/03/2014 14:06:04
+#Sta/Elev= 8 
+     110   87.93  120.37   77.93  203.31   75.93  217.71   67.93  246.51   68.93
+  260.91   76.93  374.96   78.93  385.33   88.93
+#Mann= 3 , 0 , 0 
+     110     .04       0  203.31     .04       0  260.91     .04       0
+Bank Sta=203.31,260.91
+XS Rating Curve= 0 ,0
+Exp/Cntr=.3,.1
+
+Chan Stop Cuts=-1 
+
+
+
+Use User Specified Reach Order=0
+GIS Ratio Cuts To Invert=-1
+GIS Limit At Bridges=0
+Composite Channel Slope=5
